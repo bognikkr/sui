@@ -5724,6 +5724,7 @@ dependencies = [
  "serde 1.0.139",
  "sui-client",
  "tokio",
+ "workspace-hack 0.1.0",
 ]
 
 [[package]]
@@ -6502,6 +6503,7 @@ dependencies = [
  "sui-json-rpc",
  "sui-json-rpc-types",
  "sui-types",
+ "workspace-hack 0.1.0",
 ]
 
 [[package]]
